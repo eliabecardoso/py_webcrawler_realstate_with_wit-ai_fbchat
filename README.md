@@ -1,5 +1,5 @@
 ### App QroAlugar, find your new home using just a few words (Facebook Chat).
-###### Bachelor's Degree Final Paper/Project (2018).
+###### Bachelor Degree Final Paper/Project (2018).
 
 #### Ecosystem
 - Python 3
