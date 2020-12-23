@@ -1,0 +1,3 @@
+Certo, e qual é a faixa de preço que dejesa que eu busque? (ex: 1800-2900)
+Ok, qual a faixa de preço para as buscas? (ex: 850-1100)
+E finalmente :D ... qual a faixa de preço que deseja? (ex: 1000-2000)

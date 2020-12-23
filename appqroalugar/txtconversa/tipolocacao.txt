@@ -1,0 +1,3 @@
+Ok, agora escolha o tipo da locação: (ex: casa, apartamento)
+Certo, qual é o tipo da locação: (ex: casa, apartamento)
+Entendi, selecione o tipo da locação: (ex: casa, apartamento)

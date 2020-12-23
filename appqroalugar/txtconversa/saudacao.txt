@@ -1,0 +1,4 @@
+Olá, sou uma Robô e estou aqui para te ajudar a encontrar uma casa ou apartamento para alugar, para começar digite seu nome:
+Olá, tudo bem? Sou uma robô e vou te auxiliar na busca de uma casa ou apartamento para alugar, para começar digite seu nome:
+Oi, sou uma robô e obrigado por contar comigo na busca de uma casa/apartamento para alugar, para começar digite seu nome:
+{Saudacao}, como vai? Sou uma robô que tem o objetivo de ajudá-lo a procurar uma casa ou apartamento para alugar. Para começar diga o seu nome:

@@ -1,0 +1,32 @@
+cd .. 
+Criar ambiente
+>PastaQualquer > mkvirtualenv appqroalugar
+
+Criar pasta
+>mkdir nomepasta
+
+Ativar ambiente
+>PS C:\Users\eliab> cd .\Envs\appqroalugar\Scripts\
+>PS C:\Users\eliab\Envs\appqroalugar\Scripts> .\activate.ps1
+
+Com o ambiente ativado, ir para pasta
+(appqroalugar) PS C:\Users\eliab\Desktop\pythonapps\appqroalugar> setprojectdir .
+
+Instalar libs
+>pip install Flask
+>pip install requests
+>pip install gunicorn (deploy)
+>pip install pylint
+>pip freeze #validar as libs/version instaladas no env
+
+Mostrar um desenvolvimento em andamento para o cliente (Com ngrok)
+-> iniciar um server local com python
+New Terminal>python -m http.server [8000]
+Executar ngrok>Terminal irá abrir>ngrok http [8000]
+
+
+View System Vars
+>gci env:* | sort-object name
+
+Para o scrapy (sempre no modo env)
+>pip install scrapy
